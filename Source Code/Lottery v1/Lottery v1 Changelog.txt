@@ -1,0 +1,4 @@
+#Lottery v1 Changelog
+
+First implementatin of an in-, output and a basic solution of the algorithm.
+Furthermore we programed a basic structure.

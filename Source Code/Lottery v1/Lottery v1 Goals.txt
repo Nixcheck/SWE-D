@@ -1,8 +1,0 @@
-#Lottery v1 Goals
-
-State of the project: Early Alpha
-
-In this first implementation we are trying to get an overview of what will be needed in this project 
-and how much lines of code there will be roughly.
-
-Furthermore we are trying to get a good algorithm, to get the fastest solution possible.
